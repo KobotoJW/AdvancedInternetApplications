@@ -149,7 +149,7 @@ $gray:  #e0e4cc;
     }
 }
 
-@media only screen and (min-width: $medium-max + 1) {
+@media only screen and (min-width: ($medium-max + 1)) {
     $device: "l" !global;
     #siteHeader {
         width: get-width(1);
