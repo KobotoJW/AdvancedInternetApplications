@@ -1,0 +1,43 @@
+.form-button{
+background-color: #4CAF50;
+color: white;
+cursor: pointer;
+border: none;
+padding: 10px;
+border-radius: 5px;
+transition-duration: 0.2s;
+margin-bottom: 20px;
+}
+
+.form-button:hover {
+background-color: #45a049;
+transition-duration: 0.2s;
+}
+
+.book-form {
+display: none;
+flex-direction: column;
+margin-bottom: 20px;
+}
+
+.book-form.show {
+display: flex;
+}
+
+.book-form input, .book-form button {
+padding: 10px;
+margin-bottom: 10px;
+border: 1px solid #ddd;
+border-radius: 5px;
+}
+
+.book-form button {
+background-color: #4CAF50;
+color: white;
+cursor: pointer;
+transition-duration: 0.4s;
+}
+
+.book-form button:hover {
+background-color: #45a049;
+}

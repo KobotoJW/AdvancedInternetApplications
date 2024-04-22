@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "review": 4.5,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "review": 4.2,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "review": 3.9,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "review": 4.1,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "review": 3.8,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 6,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "review": 3.5,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 7,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "review": 4.1,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 8,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "review": 3.7,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 9,
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "review": 4.0,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 10,
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "review": 3.6,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 11,
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "review": 4.2,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 12,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "review": 4.3,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 13,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "review": 3.9,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 14,
+    "title": "In Search of Lost Time",
+    "author": "Marcel Proust",
+    "review": 4.4,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 15,
+    "title": "The Iliad",
+    "author": "Homer",
+    "review": 3.8,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 16,
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "review": 4.1,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 17,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "review": 4.0,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 18,
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "review": 3.7,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 19,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "review": 4.5,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  },
+  {
+    "id": 20,
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "review": 3.8,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIFadyKwNyDaCt7RkvnXzf8aJy1Q2WTY3MhtQI2RHpg&s"
+  }
+]
