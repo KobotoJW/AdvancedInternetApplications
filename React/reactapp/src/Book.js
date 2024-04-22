@@ -1,4 +1,3 @@
-// Book.js
 import React, { useState } from 'react';
 import './Book.css';
 
