@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shopping Cart</title>
+    <style>
+        .error {
+            color: black;
+            background-color: red;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: wheat;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Your Shopping Cart</h1>
+        <% if (errorMessage) { %>
+            <p class="error"><%= errorMessage %></p>
+        <% } %>
+        <ul>
+            <% products.forEach(function(product) { %>
+                <li>
+                    <h2><%= product.name %></h2>
+                    <p>Price: <%= product.price %></p>
+                    <p>Category: <%= product.category %></p>
+                    <p>In cart: <%= product.count %></p>
+                    <form action="/remove-from-cart" method="POST">
+                        <input type="hidden" name="productId" value="<%= product._id %>">
+                        <input type="submit" value="Remove from Cart">
+                    </form>
+                </li>
+            <% }); %>
+        </ul>
+        <button onclick="location.href='/products'" type="button">Back to Products</button>
+        <form action="/clear-cart" method="POST">
+            <input type="submit" value="Clear cart">
+        </form>
+        <form action="/checkout" method="POST">
+            <input type="submit" value="Purchase">
+        </form>
+    
+</body>
+</html>

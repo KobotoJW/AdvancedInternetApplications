@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6642520f813aa431ddf8eaff"
+  },
+  "name": "bookname",
+  "price": 10.49,
+  "category": "bookcategory",
+  "number": 91,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66425647813aa431ddf8eb03"
+  },
+  "name": "bookname2",
+  "price": 8,
+  "category": "bookcategory",
+  "number": 54,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66425650813aa431ddf8eb05"
+  },
+  "name": "bookname3",
+  "price": 6.5,
+  "category": "bookcategory",
+  "number": 11,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66425659813aa431ddf8eb07"
+  },
+  "name": "bookname4",
+  "price": 8,
+  "category": "bookcategory2",
+  "number": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66425665813aa431ddf8eb09"
+  },
+  "name": "bookname5",
+  "price": 3.14,
+  "category": "bookcategory",
+  "number": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642566e813aa431ddf8eb0b"
+  },
+  "name": "bookname6",
+  "price": 16.99,
+  "category": "bookcategory3",
+  "number": 34,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66425e1d6712f27923ec550d"
+  },
+  "name": "bookname7",
+  "price": 6.59,
+  "category": "bookcategory2",
+  "number": 25,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664265296712f27923ec5512"
+  },
+  "name": "book 8",
+  "price": 12.04,
+  "category": "cats",
+  "number": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664293fd287b7e97e0f6d1c5"
+  },
+  "name": "test",
+  "price": 1,
+  "category": "testcat",
+  "number": 0,
+  "__v": 0
+}]
